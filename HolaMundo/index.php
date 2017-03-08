@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo "Mario Llorca, Rol:Jessica";
+        echo "<br>";
+        echo "Bernardo Libro, Rol:John";
         ?>
     </body>
 </html>
