@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "Mario Llorca, Rol:Jessica";
         echo "<br>";
         echo "Bernardo Libro, Rol:John";
+        echo "Copyright 2017";
         ?>
     </body>
 </html>
